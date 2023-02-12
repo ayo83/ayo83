@@ -16,7 +16,7 @@ I'm Ayomikun.
 
 
 <div display ="flex" align="center" > 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayo83&layout=compact&theme=dark&count_private=true"/> &nbsp; &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayo83&layout=compact&theme=dark&count_private=true" /> &nbsp; &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api//?username=ayo83&layout=compact&theme=radical&show_icons=true&count_private=true" /> 
 <div/>
 <br/>
